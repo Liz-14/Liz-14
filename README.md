@@ -23,5 +23,8 @@ const Lizeth = {
   hobbies: "Reading, bike riding, studying, and play with my pets."
 }
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true&theme=aura_dark)
+![Liz Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liz-14&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
