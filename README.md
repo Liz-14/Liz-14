@@ -23,12 +23,5 @@ const Lizeth = {
   hobbies: "Reading, bike riding, studying, and play with my pets."
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liz-14)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true&theme=aura_dark)
 
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
-</p>
-<hr>
