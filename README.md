@@ -20,6 +20,6 @@ const Lizeth = {
   code: [Javascript, HTML, CSS, Python],
   tools: [Angular, NodeJS, Jest, Bootstrap, Firebase],
   comingSoon : [React, MySQL],
-  hobbies: "Reading, bike riding, studying, and play time with my pets."
+  hobbies: "Reading, bike riding, studying, and play with my pets."
 }
 ```
