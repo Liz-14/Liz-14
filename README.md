@@ -15,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:liz-delrio@outlook.com)
 
 ```javascript
-const Danna = {
+const Lizeth = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python],
   tools: [Angular, NodeJS, Jest, Bootstrap, Firebase],
