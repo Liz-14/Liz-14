@@ -23,6 +23,7 @@ const Lizeth = {
   hobbies: "Reading, bike riding, studying, and play with my pets."
 }
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liz-14)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <p align="center">
