@@ -18,7 +18,8 @@ const Lizeth = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python],
   tools: [Angular, NodeJS, Jest, Bootstrap, Firebase],
-  comingSoon : [React, MySQL],
+  design: [Illustrator, Photoshop, Balsamiq]
+  comingSoon : [React, MySQL, Figma],
   hobbies: "Reading, bike riding, studying, and play with my pets."
 }
 ```
