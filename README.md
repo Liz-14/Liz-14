@@ -10,7 +10,7 @@
 - :mailbox: You can reach me with the links below
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573017220680&text=Hola!)](https://api.whatsapp.com/send?phone=3017220680&text=Hola!🖖)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/lizeth-del-rio-198b9014b/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](www.linkedin.com/in/lizethdelrio-front-end-developer) 
 [![Mail](https://img.shields.io/badge/-Outlook-c14438?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:liz-delrio@outlook.com)
 
 ```javascript
