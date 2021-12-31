@@ -15,13 +15,24 @@
 
 ```javascript
 const Lizeth = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [Angular, NodeJS, Jest, Bootstrap, Firebase],
-  design: [Illustrator, Photoshop, Balsamiq],
-  comingSoon : [React, MySQL, Figma],
-  hobbies: "Reading, bike riding, studying, and play with my pets."
-}
+   pronouns: "She" | "her",
+   code: [Javascript, HTML, CSS, Python],
+   design: [Illustrator, Photoshop, Balsamiq],
+   technologies: {
+      frontEnd: {
+         js: ["Angular"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: "Node",
+         misc: ["Firebase"]
+      }
+   },
+   comingSoon : [React, MySQL, Figma],
+   hobbies: "Reading, bike riding, studying, and play with my pets."
+};
 ```
+
+[![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14show_icons=true)](https://github.com/Liz-14)
 
 
