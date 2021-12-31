@@ -34,6 +34,4 @@ const Lizeth = {
 ```
 
 [![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true)](https://github.com/Liz-14)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liz-14&show_icons=true)
-
 
