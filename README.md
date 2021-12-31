@@ -33,6 +33,6 @@ const Lizeth = {
 };
 ```
 
-[![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14show_icons=true)](https://github.com/Liz-14)
+[![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true)](https://github.com/Liz-14)
 
 
