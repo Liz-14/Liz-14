@@ -43,6 +43,5 @@ const Lizeth = {
   <summary><b>🛠️&nbsp;&nbsp;This&nbsp;Week&nbsp;I&nbsp;Spent&nbsp;My&nbsp;Time&nbsp;On</b></summary>
   <br/>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Liz-14&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-</details> 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
