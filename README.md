@@ -39,9 +39,7 @@ const Lizeth = {
 
 [![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true)](https://github.com/Liz-14)
 </details> 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;This&nbsp;Week&nbsp;I&nbsp;Spent&nbsp;My&nbsp;Time&nbsp;On</b></summary>
-  <br/>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Liz-14&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+<p align="center">
+![](https://visitor-badge.glitch.me/badge?page_id=Liz-14.Liz-14)
+</p>
