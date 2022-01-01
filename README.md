@@ -42,6 +42,6 @@ const Lizeth = {
 
 <p align="center">
 <br/>
-  <img alt="LizVisitors" width="30px" src="https://visitor-badge.glitch.me/badge?page_id=Liz-14.Liz-14"/>
+  <img alt="LizVisitors" width="50px" src="https://visitor-badge.glitch.me/badge?page_id=Liz-14.Liz-14"/>
 </p>
 
