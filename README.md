@@ -40,6 +40,8 @@ const Lizeth = {
 [![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true)](https://github.com/Liz-14)
 </details> 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=Liz-14.Liz-14)
+<p align="center">
+<br/>
+  <img alt="LizVisitors" width="10px" src="https://visitor-badge.glitch.me/badge?page_id=Liz-14.Liz-14"/>
+</p>
 
