@@ -39,6 +39,12 @@ const Lizeth = {
 
 [![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true)](https://github.com/Liz-14)
 </details> 
+<details>
+  <summary><b>✨&nbsp;&nbsp;Languages&nbsp;Used&nbsp;In&nbsp;My&nbsp;Public&nbsp;Repos</b></summary>
+  <br/>
+
+[![Lizeth Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liz-14&layout=compact&hide_title=1&card_width=300)
+</details> 
 
 <p align="center">
 <br/>
