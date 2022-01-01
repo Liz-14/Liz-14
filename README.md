@@ -33,5 +33,10 @@ const Lizeth = {
 };
 ```
 
+<details>
+  <summary><b>✨&nbsp;&nbsp;Stats</b></summary>
+  <br/>
+
 [![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true)](https://github.com/Liz-14)
+</details> 
 
