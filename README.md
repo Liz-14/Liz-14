@@ -37,7 +37,7 @@ const Lizeth = {
   <summary><b>✨&nbsp;&nbsp;Stats</b></summary>
   <br/>
 
-[![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&show_icons=true)](https://github.com/Liz-14)
+[![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&theme=aura_dark&show_icons=true)](https://github.com/Liz-14)
 </details> 
 <details>
   <summary><b>✨&nbsp;&nbsp;Languages&nbsp;Used&nbsp;In&nbsp;My&nbsp;Public&nbsp;Repos</b></summary>
