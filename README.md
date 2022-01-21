@@ -39,7 +39,7 @@ const Lizeth = {
 
 [![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&theme=slateorange&show_icons=true)](https://github.com/Liz-14)
 
-[![Liz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LizethDR&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Liz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LizethDR&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liz-14&&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details> 
