@@ -38,8 +38,6 @@ const Lizeth = {
   <br/>
 
 [![Lizeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liz-14&theme=slateorange&show_icons=true)](https://github.com/Liz-14)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LizethDR&theme=gruvbox" />  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liz-14&&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details> 
 
 <p align="center">
