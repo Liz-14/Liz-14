@@ -32,9 +32,11 @@ const Lizeth = {
    hobbies: "Reading, bike riding, studying, and play with my pets."
 };
 ```
-## Angular Proyects
+## Angular Projects
 
-[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-burger-queen&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-burger-queen&theme=slateorange)](https://github.com/Liz-14/BOG003-burger-queen)
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=Hypatia&theme=slateorange)](https://github.com/Liz-14/Hypatia)
+[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=CRUD-Angular-Firebase&theme=slateorange)](https://github.com/Liz-14/CRUD-Angular-Firebase)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Stats</b></summary>
