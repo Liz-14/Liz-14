@@ -32,6 +32,9 @@ const Lizeth = {
    hobbies: "Reading, bike riding, studying, and play with my pets."
 };
 ```
+## Angular Proyects
+
+[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-burger-queen&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;Stats</b></summary>
