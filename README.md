@@ -38,11 +38,9 @@ const Lizeth = {
 [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=CRUD-Angular-Firebase&theme=slateorange)](https://github.com/Liz-14/CRUD-Angular-Firebase)
 
 <details>
-  <h3>✨&nbsp;&nbsp;JavaScript Vanilla</h3>
+   <summary><h4>✨&nbsp;&nbsp;Stats</h4></summary>
   <br/>
-   [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-burger-queen&theme=slateorange)](https://github.com/Liz-14/BOG003-burger-queen)
-   [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=Hypatia&theme=slateorange)](https://github.com/Liz-14/Hypatia)
-   [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=CRUD-Angular-Firebase&theme=slateorange)](https://github.com/Liz-14/CRUD-Angular-Firebase)
+   [![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-burger-queen&theme=slateorange&show_icons=true)](https://github.com/Liz-14/BOG003-burger-queen)
 </details> 
 
 <details>
