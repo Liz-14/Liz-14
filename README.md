@@ -38,7 +38,7 @@ const Lizeth = {
 [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=CRUD-Angular-Firebase&theme=slateorange)](https://github.com/Liz-14/CRUD-Angular-Firebase)
 
 <details>
-   <summary><h4>✨&nbsp;&nbsp;Stats</h4></summary>
+   <summary><b>✨&nbsp;&nbsp;Stats</b></summary>
   <br/>
    [![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-burger-queen&theme=slateorange&show_icons=true)](https://github.com/Liz-14/BOG003-burger-queen)
 </details> 
