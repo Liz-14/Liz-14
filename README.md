@@ -38,11 +38,11 @@ const Lizeth = {
 [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=CRUD-Angular-Firebase&theme=slateorange)](https://github.com/Liz-14/CRUD-Angular-Firebase)
 
 <details>
-  <summary><h3>✨&nbsp;&nbsp;JavaScript Vanilla</h3></summary>
+  <h3>✨&nbsp;&nbsp;JavaScript Vanilla</h3>
   <br/>
-[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-data-lovers&theme=slateorange)](https://github.com/Liz-14/BOG003-data-lovers)
-[![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-social-network&theme=slateorange)](https://github.com/Liz-14/BOG003-social-network)
-[![Readme Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-card-validation&theme=slateorange)](https://github.com/Liz-14/BOG003-card-validation)
+   [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=BOG003-burger-queen&theme=slateorange)](https://github.com/Liz-14/BOG003-burger-queen)
+   [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=Hypatia&theme=slateorange)](https://github.com/Liz-14/Hypatia)
+   [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Liz-14&repo=CRUD-Angular-Firebase&theme=slateorange)](https://github.com/Liz-14/CRUD-Angular-Firebase)
 </details> 
 
 <details>
