@@ -3,8 +3,10 @@
 
 ## I'm Multimedia Engineer  
 
-- 🎓 Recent Front-end developer graduate from Laboratoria
-- 👨‍💻 I’m currently working on web development technologies like Angular.
+- 🎓 Front-end developer graduate from Laboratoria
+- 🎓 Multimedia Engineer graduate from UMNG
+- 👨‍💻 I’m currently working on web development technologies like Angular and hexagonal architecture.
+- 👨‍💻 I’m currently working on app development technologies like ionic + react.js and clean architecture.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - :mailbox: You can reach me with the links below
