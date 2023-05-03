@@ -17,14 +17,14 @@
 ```javascript
 const Lizeth = {
    pronouns: "She" | "her",
-   code: [Javascript, HTML, CSS, Python, Ionic, Typescript],
-   design: [Illustrator, Photoshop, Balsamiq],
+   code: ["Javascript", "HTML", "CSS", "Python", "Ionic", "Typescript"],
+   design: ["Illustrator", "Photoshop", "Balsamiq"],
    technologies: {
       frontEnd: {
          js: ["React.js"],
-         ts: ["Angular+10, React.js"],
-         css: ["Bootstrap, Bootswatch"]
-         Sass: ["Bootstrap"]
+         ts: ["Angular+10", "React.js"],
+         css: ["Bootstrap", "Bootswatch"]
+         sass: ["Bootstrap"]
       },
       backEnd: {
          js: "Node",
