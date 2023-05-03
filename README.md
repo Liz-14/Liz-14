@@ -15,19 +15,20 @@
 ```javascript
 const Lizeth = {
    pronouns: "She" | "her",
-   code: [Javascript, HTML, CSS, Python],
+   code: [Javascript, HTML, CSS, Python, Ionic, Typescript],
    design: [Illustrator, Photoshop, Balsamiq],
    technologies: {
       frontEnd: {
-         js: ["Angular"],
-         css: ["Bootstrap"]
+         js: ["React.js"],
+         ts: ["Angular+10, React.js"],
+         css: ["Bootstrap, Bootswatch"]
+         Sass: ["Bootstrap"]
       },
       backEnd: {
          js: "Node",
          misc: ["Firebase"]
       }
    },
-   comingSoon : [React, MySQL, Figma],
    hobbies: "Reading, bike riding, studying, and play with my pets."
 };
 ```
