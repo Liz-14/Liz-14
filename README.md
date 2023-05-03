@@ -31,6 +31,7 @@ const Lizeth = {
          misc: ["Firebase"],
       }
    },
+   architectures: ["Hexagonal", "Clean"],
    hobbies: "Reading, bike riding, studying, and play with my pets."
 };
 ```
