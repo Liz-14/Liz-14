@@ -23,12 +23,12 @@ const Lizeth = {
       frontEnd: {
          js: ["React.js"],
          ts: ["Angular+10", "React.js"],
-         css: ["Bootstrap", "Bootswatch"]
-         sass: ["Bootstrap"]
+         css: ["Bootstrap", "Bootswatch"],
+         sass: ["Bootstrap"],
       },
       backEnd: {
          js: "Node",
-         misc: ["Firebase"]
+         misc: ["Firebase"],
       }
    },
    hobbies: "Reading, bike riding, studying, and play with my pets."
